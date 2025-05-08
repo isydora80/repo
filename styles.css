@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+div{
+    width: 300px;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+span{
+    width: 300px;
+    background-color: orange;
+    text-align: center;
+}
