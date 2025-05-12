@@ -19,5 +19,5 @@ div{
  .green-color{
     color: green;
     font-size: 30 px;
-    font-size: strong;
+    font-weight: bold;
 }
