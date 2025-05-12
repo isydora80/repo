@@ -1,18 +1,23 @@
 body{
     background-color: grey;
 }
-h1{
+/* h1{
     color: white;
     text-align: center;
-}
+} */
 div{
     width: 300px;
     background-color: aqua;
     text-align: center;
     padding: 20px;
 }
-span{
+/* span{
     width: 300px;
     background-color: orange;
     text-align: center;
+}*/
+ .green-color{
+    color: green;
+    font-size: 30 px;
+    font-size: strong;
 }
